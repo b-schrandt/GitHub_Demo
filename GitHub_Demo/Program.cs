@@ -8,6 +8,7 @@ namespace GitHub_Demo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("My name is Ben Schrandt!");
+            Console.WriteLine("This is my first GitHub project!");
         }
     }
 }
